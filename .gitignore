@@ -1,0 +1,5 @@
+.hg
+*.hgtags
+*.hgeol
+*.hgignore
+lib
